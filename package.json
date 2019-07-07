@@ -1,0 +1,26 @@
+{
+  "name": "@underlake/sendmail-util",
+  "version": "0.1.0",
+  "description": "Sendmail utility",
+  "main": "main/sendmail-util.js",
+  "bin": {
+    "sendmail-util": "main/sendmail-util.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sendmail",
+    "smtp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbuhacoff/manifest-js.git"
+  },
+  "author": "Jonathan Buhacoff <jonathan@buhacoff.net>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "sendmail": "^1.6.1",
+    "yargs": "^13.2.4"
+  }
+}
