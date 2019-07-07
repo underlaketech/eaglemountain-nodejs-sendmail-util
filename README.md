@@ -20,7 +20,7 @@ the [sendmail](https://www.npmjs.com/package/sendmail) library which delivers th
 # Install
 
 ```
-npm install -g @underlake/sendmail
+npm install -g @underlake/sendmail-util
 ```
 
 # Usage
